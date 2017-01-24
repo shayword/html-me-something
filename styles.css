@@ -10,6 +10,10 @@ body {
 	font-size: 62.5%;
 }
 
+#name{
+	color: white;
+}
+
 main,
 footer {
 	background-color: #ddd;
@@ -32,6 +36,12 @@ header h1 {
 
 h1, h2, h3 {
 	margin: 0;
+}
+
+.first {
+	color: red;
+	font-family: Times;
+
 }
 
 h1 {
